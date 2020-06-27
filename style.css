@@ -1,0 +1,28 @@
+.head{
+    text-align: center;
+}
+.main{
+    border: 6px solid blue;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 194px;
+    background-color:black;
+    color: #FFFF;
+}
+.clearBTN{
+    width: 200px;
+    margin-top: 10px; 
+    background-color:greenyellow;   
+}
+.btn{
+    width: 45px;
+    margin: 1px;
+    background-color:red;
+}
+.halfbtn{
+    background-color: gray;
+    width: 198px;
+    margin-top: 10px;
+}
